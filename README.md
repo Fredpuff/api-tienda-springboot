@@ -138,6 +138,10 @@ Los errores de validación devuelven un mensaje por campo, por ejemplo `{ "nombr
 - `src/test/java/.../ApiCrudTests.java` recorre la matriz de casos de la guía para ambos módulos.
 - `postman/API_Tienda.postman_collection.json` es la colección de Postman con las carpetas **Productos** y **Usuarios**.
 
+## Repositorio
+
+https://github.com/Fredpuff/api-tienda-springboot
+
 ## Autor
 
-Frederick Abril Mogollón
+Frederick Alexandro Abril Mogollón
